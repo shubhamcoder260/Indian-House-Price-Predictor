@@ -8,22 +8,21 @@ A complete end-to-end machine learning project that predicts house prices based 
 
 Indian-House-Price-Predictor/
 │
-├── data
-│ ├── House Price India.csv
-│ └── house_price_india_cleaned.csv
+├── data/
+│   ├── House Price India.csv
+│   └── house_price_india_cleaned.csv
 │
-├── models
-│ ├── house_price_model.pkl
-│ ├── input_columns.pkl
-│ ├── pca.pkl
-│ └── scaler.pkl
+├── models/
+│   ├── house_price_model.pkl
+│   ├── input_columns.pkl
+│   ├── pca.pkl
+│   └── scaler.pkl
 │
-├── app.py # Streamlit web app
-├── house_pred.ipynb # Model usage and testing
-├── house_price_prediction.ipynb # EDA + model building
+├── app.py                   # Streamlit web application
+├── house_pred.ipynb         # Model usage and testing
+├── house_price_prediction.ipynb  # EDA and model building notebook
 ├── .gitignore
 └── README.md
-
 
 ---
 
