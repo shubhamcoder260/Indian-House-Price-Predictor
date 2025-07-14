@@ -13,7 +13,7 @@ __pycache__/
 .vscode/
 
 # Data files (if private)
-*.csv
+#*.csv
 
 # Model files (optional)
-*.pkl
+#*.pkl
