@@ -4,8 +4,8 @@ A complete end-to-end machine learning project that predicts house prices based 
 
 ---
 
-## 📁 Project Structure
-
+📁 Project Structure
+```plaintext
 Indian-House-Price-Predictor/
 │
 ├── data/
@@ -23,9 +23,7 @@ Indian-House-Price-Predictor/
 ├── house_price_prediction.ipynb  # EDA and model building notebook
 ├── .gitignore
 └── README.md
-
----
-
+```
 ## 🚀 Features
 
 - 📊 Data Cleaning & Feature Engineering
