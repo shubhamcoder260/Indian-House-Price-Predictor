@@ -1,0 +1,19 @@
+# Ignore virtual environments
+.venv/
+env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Data files (if private)
+*.csv
+
+# Model files (optional)
+*.pkl
